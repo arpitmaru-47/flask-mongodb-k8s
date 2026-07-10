@@ -22,15 +22,15 @@ The application is containerized using Docker and deployed on a Kubernetes clust
 Browser
   |
 Flask Service (NodePort)
-
+  |
 Flask Deployment
-
+  |
 Flask Pods
-
+  |
 MongoDB Service
-
+  |
 MongoDB Deployment
-
+  |
 MongoDB Pod
 ```
 
