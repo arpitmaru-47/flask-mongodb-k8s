@@ -89,5 +89,6 @@ minikube service flask-service -n flask-project
 - Debugging ImagePullBackOff
 - Debugging Service Selector Issues
 
-## Author 
+## Author
+
 appi47
