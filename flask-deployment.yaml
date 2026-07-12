@@ -21,7 +21,7 @@ spec:
       containers:
       - name: flask
 
-        image: appi47/flask-mongodb:v1
+        image: arpit/flask-mongodb:v1
 
         ports:
         - containerPort: 5000
